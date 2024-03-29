@@ -1,4 +1,4 @@
-# Welcome To The Multi-Verse
+# Welcome To The Multiverse
 ## Versions
 <!--- only show the newwest 10 --->
 |Version name|description|Version Number|version status|
